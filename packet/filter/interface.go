@@ -1,7 +1,7 @@
 package m_packet_filter
 
 import (
-	"github.com/google/gopacket"
+	"github.com/MarconiProtocol/gopacket"
 )
 
 /*
